@@ -1,0 +1,21 @@
+//
+//  XMPPHeader.pch
+//  XMPP登录注册
+//
+//  Created by LLQ on 16/6/21.
+//  Copyright © 2016年 LLQ. All rights reserved.
+//
+
+#ifndef XMPPHeader_pch
+#define XMPPHeader_pch
+
+#define kXMPP_MESSAGE_CHANGE @"XMPP_MESSAGE_CHANGE"
+#define kXMPP_Login_Success @"XMPP_Login_Success"
+#define kXMPP_Register_Success @"XMPP_Register_Success"
+#define kXMPP_Friends_Success @"XMPP_Friends_Success"
+
+#define kXMPP_DOMAIN @"llq.local"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* XMPPHeader_pch */
